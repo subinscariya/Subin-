@@ -1,0 +1,30 @@
+.ab{
+    font-size:50px;
+    
+}
+.card{
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
+.abc{
+    height: 10px;
+}
+.z{
+    height: 60px;
+    width: 55px;
+    background-color:blue;
+}
+#map-container-2{
+    overflow:hidden;
+    padding-bottom:12px;
+    position:relative;
+    height:10px;
+    }
+#map-container-2 iframe{
+    left:0;
+    top:0;
+    height:100px;
+    widows: 60px;
+    position:absolute;
+    }
